@@ -1,0 +1,81 @@
+
+<html>
+
+<head>
+
+<title> Sir Pao! </title>
+<style type="text/css">
+body {
+	background-color: #16638F;
+}
+h1 {
+	font-family: Georgia, "Times New Roman", Times, Serif;
+	font-size: 32px;
+	color: #3099D3;
+	text-align: center;
+}
+h2 {
+	font-family: Georgia, "Times New Roman", Times, Serif;
+	font-size: 24px;
+	color: #B9090B;
+	text-align: center;
+}
+h3{
+background-color: #FFA500; //new style
+}
+
+</style>
+
+
+
+</head>
+
+<body>
+<hr >
+<h1> [Your Name Here]</h1>
+<hr />
+
+<h2>Welcome to my web page!</h2>
+<p>&nbsp;</p>
+
+<h3>About Me</h3>
+<p>
+My name is [YOUR NAME HERE], I am a [FRESHMEN/SOPHOMORE...] student at
+[YOUR DEPARTMENT'S NAME] Department of University of Pittsburgh. [MORE ABOUT YOURSELF HERE...]
+</p>
+<p>&nbsp;</p>
+
+<h3>My Address</h3>
+<address>[ROOM NUMBER], [BUILDING]</h3>
+University of Pittsburgh<br/>
+Pittsburgh, PA 15260
+</address>
+<p>&nbsp;</p>
+
+<h3>My Favorite Music </h3>
+<p>I like <strong>[GENRE 1]</strong>,
+<strong>[GENRE 2]</strong>, and <strong>[BOOK 3]</strong> music.</p>
+<p>&nbsp;</p>
+
+<h3>Favorite Books</h3>
+<p>I like <strong>[Book 1]</strong>,
+<strong>[GENRE 2]</strong>, and <strong>[GENRE 3]</strong>.</p>
+<p>&nbsp;</p>
+
+<h3>My Course</h3>
+<p> I am taking <strong> [COURSE 1] </strong>,
+<strong> [COURSE 2] </strong>, and
+<strong> [COURSE 3] </strong> this semester. </p>
+<p>&nbsp;</p>
+
+<h3> My Favorite Qoute </h3>
+<blockqoute> [PUT YOUR FAVORITE QOUTE HERE..] </blockqoute>
+<p>&nbsp;</p>
+
+<hr/>
+<h6>&copy; 2007 [YOUR NAME HERE] </h6>
+<hr/>
+
+</body>
+
+</html>
